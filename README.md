@@ -1,4 +1,4 @@
-# AbsThenExtPublic
+# A Condense-then-Select Strategy for Text Summarization
 
 This repository contains the source code for our paper "A Condense-then-Select Strategy for Text Summarization" to appear in Knowledge-Based Systems (KBS) journal. 
 
