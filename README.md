@@ -5,6 +5,16 @@ This repository contains the source code for our paper "[A Condense-then-select 
 Our source code is built on the code of [Fast Abstractive Summarization-RL](https://github.com/ChenRocks/fast_abs_rl). 
 
 If you use our code, please cite our paper:
+```
+@article{condense_then_abstract_2021,
+  title={A condense-then-select strategy for text summarization},
+  author={Chan, Hou Pong and King, Irwin},
+  journal={Knowledge-Based Systems},
+  pages={107235},
+  year={2021},
+  publisher={Elsevier}
+}
+```
 
 ## Model Architecture
 ![](figures/overall_architecture.png)
